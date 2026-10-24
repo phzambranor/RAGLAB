@@ -6,7 +6,7 @@ def calcular_total(sesiones, horas_por_sesion):
     return sesiones * horas_por_sesion
 
 
-nombre_estudiante = "Pepe"
+nombre_estudiante = "Pep"
 
 print(saludar_estudiante(nombre_estudiante))
 print("Horas del módulo:", calcular_total(10, 4))
